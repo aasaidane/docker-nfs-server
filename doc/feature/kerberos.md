@@ -22,4 +22,4 @@ Here's an example:
       -v /etc/passwd:/etc/passwd:ro                       \
       --cap-add SYS_ADMIN                                 \
       -p 2049:2049                                        \
-      erichough/nfs-server
+      aasaidane/nfs-server
