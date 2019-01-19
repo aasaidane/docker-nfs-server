@@ -9,5 +9,5 @@ If you'd like to run [`idmapd`](http://man7.org/linux/man-pages/man8/idmapd.8.ht
       -v /etc/passwd:/etc/passwd:ro                     \
       --cap-add SYS_ADMIN                               \
       -p 2049:2049                                      \
-      erichough/nfs-server
+      aasaidane/nfs-server
          
